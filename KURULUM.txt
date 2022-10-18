@@ -1,0 +1,9 @@
+DESTEK ÝÇÝN
+
+http://www.ayqo.net/2014/03/ucretsiz-mobil-chat-scripti.html
+
+SQL dosyaýsný veritabanýnýza aktarýn. ayar.php'deki gerekli yerleri düzenleyin.
+
+Admin Paneli için www.siteadresiniz.com/ayqo.php ye gidin.
+
+Ýlk kullanýcý adý ve þifre admin 123'tür.
