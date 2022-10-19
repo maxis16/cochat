@@ -7,7 +7,7 @@
  */
 
 include_once("func.php");
-$obje = new Func("localhost","root","","chat"); // localhost, db_kullanıcı, db_şifre, db_adı şeklinde girin.
+$obje = new Func("localhost","root","123123","hostum"); // localhost, db_kullanıcı, db_şifre, db_adı şeklinde girin.
 $obje->connect();
 
 if(session_id() == '') {
